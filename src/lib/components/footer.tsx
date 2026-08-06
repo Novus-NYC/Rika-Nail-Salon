@@ -74,12 +74,12 @@ export function Footer() {
       </div>
       <div className="mx-auto max-w-7xl px-5 pb-8 text-sm text-cream/60 sm:px-8">
         <a
-          href="https://voltanyc.org/"
+          href="https://www.novusnyc.org/"
           target="_blank"
           rel="noreferrer"
-          className="text-[#82c341] no-underline"
+          className="text-[#F6B78D] no-underline"
         >
-          Made by Volta
+          Made by Novus
         </a>
       </div>
     </footer>
